@@ -34,6 +34,7 @@ specific language governing rights and limitations under the License.
 import os
 import ctypes
 from ctypes.util import find_library
+import sys
 
 
 # +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
